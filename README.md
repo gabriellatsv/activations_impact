@@ -1,1 +1,1 @@
-# function_overfitting
+Initial documentation of activation_impact.
