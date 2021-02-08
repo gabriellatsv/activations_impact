@@ -1,1 +1,1 @@
-Initial documentation of activation_impact.
+Initial documentation of activations_impact.
